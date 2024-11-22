@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## INTRODUCTION
 
 My name is jo deok hyeon. I am  currently in Chung-Ang University College Of Art & Technology.
 
 Mail: friday2005@naver.com , Phone: 010-2670-3143
 
+## STACKS
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow&labelColor=blue&color=blue">
+
+## SNS
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/d_h_eon/profilecard/?igsh=NDkyb21tMHlhN2Zw)
-<div align=center>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJodeokhyeon&count_bg=%2379C83D&title_bg=%23555555&icon=mariadbfoundation.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                  
-</div>
+
+
