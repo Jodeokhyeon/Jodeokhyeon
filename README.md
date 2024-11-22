@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##INTRODUCTION
 My name is jo deok hyeon. I am  currently in Chung-Ang University College Of Art & Technology.
 
 Mail: friday2005@naver.com , Phone: 010-2670-3143
