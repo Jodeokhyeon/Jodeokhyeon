@@ -24,6 +24,6 @@ My name is jo deok hyeon. I am  currently in Chung-Ang University College Of Art
 
 mail: friday2005@naver.com
 
-<div align=center>
+
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/d_h_eon/profilecard/?igsh=NDkyb21tMHlhN2Zw)
-</div>
+
