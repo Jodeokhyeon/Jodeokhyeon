@@ -20,9 +20,7 @@ My name is jo deok hyeon. I am  currently in Chung-Ang University College Of Art
 Mail: friday2005@naver.com , Phone: 010-2670-3143
 
 ## STACKS
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow&labelColor=blue&color=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/html5-%230F1689?logo=html5&logoColor=RAD&labelColor=blue&color=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=YELLO&labelColor=blue&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow&labelColor=blue&color=blue"><img alt="Static Badge" src="https://img.shields.io/badge/html5-%230F1689?logo=html5&logoColor=RAD&labelColor=blue&color=blue"><img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=YELLO&labelColor=blue&color=blue">
 
 ## SNS
 
