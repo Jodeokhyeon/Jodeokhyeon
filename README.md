@@ -4,6 +4,8 @@
 My name is jo deok hyeon. I am  currently in Chung-Ang University [College Of Art & Technology.](https://artech.cau.ac.kr/)
 
 
+"Turning imagination into reality is my life's goal."
+
 ## STACKS 📚
 [![Instagram Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://namu.wiki/w/Python) 
 [![Instagram Badge](https://img.shields.io/badge/html5-%230F1689?logo=html5&logoColor=RAD&labelColor=blue&color=blue)](https://namu.wiki/w/HTML5) 
