@@ -1,5 +1,4 @@
-## WELCOME TO MY PAGE 👋 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJodeokhyeon&count_bg=%23ABABAB&title_bg=%23EEEEEE&icon=mariadbfoundation.svg&icon_color=%232E0DEF&title=visit&edge_flat=false"/></a>
+## WELCOME TO MY PAGE 👋 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJodeokhyeon&count_bg=%23ABABAB&title_bg=%23EEEEEE&icon=mariadbfoundation.svg&icon_color=%232E0DEF&title=visit&edge_flat=false"/></a>
 
 <!--
 **Jodeokhyeon/Jodeokhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
