@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is jo deok hyeon. I am  currently in Chung-Ang University College Of Art & Technology.
 
-mail: friday2005@naver.com , Phone: 010-2670-3143
+Mail: friday2005@naver.com , Phone: 010-2670-3143
 
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/d_h_eon/profilecard/?igsh=NDkyb21tMHlhN2Zw)
