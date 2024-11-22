@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 My name is jo deok hyeon. I am  currently in Chung-Ang University [College Of Art & Technology.](https://artech.cau.ac.kr/)
 
-Mail: friday2005@naver.com , Phone: 010-2670-3143
 
 ## STACKS
 [![Instagram Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://namu.wiki/w/Python) 
@@ -26,8 +25,5 @@ Mail: friday2005@naver.com , Phone: 010-2670-3143
 
 ## PROJACE
 
-## SNS
-
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/d_h_eon/profilecard/?igsh=NDkyb21tMHlhN2Zw)
 
 
