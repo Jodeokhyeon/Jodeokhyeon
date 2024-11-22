@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is jo deok hyeon. I am  currently in Chung-Ang University [!College Of Art & Technology.](https://artech.cau.ac.kr/)
+My name is jo deok hyeon. I am  currently in Chung-Ang University [College Of Art & Technology.](https://artech.cau.ac.kr/)
 
 Mail: friday2005@naver.com , Phone: 010-2670-3143
 
