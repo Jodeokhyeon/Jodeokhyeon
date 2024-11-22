@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 My name is jo deok hyeon. I am  currently in Chung-Ang University [College Of Art & Technology.](https://artech.cau.ac.kr/)
 
 
-## STACKS
+## STACKS 📚
 [![Instagram Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow&labelColor=blue&color=blue)](https://namu.wiki/w/Python) 
 [![Instagram Badge](https://img.shields.io/badge/html5-%230F1689?logo=html5&logoColor=RAD&labelColor=blue&color=blue)](https://namu.wiki/w/HTML5) 
 [![Instagram Badge](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=YELLO&labelColor=blue&color=blue)](https://namu.wiki/w/JavaScript)
 
-## PROJACE
+## PROJACE 📓
 
 
 
